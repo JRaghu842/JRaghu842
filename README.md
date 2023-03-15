@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/JRaghu842/offbeat-jeans-3946/blob/main/images/working-remotely-1.png)
+![MasterHead](https://github.com/JRaghu842/offbeat-jeans-3946/blob/main/images/backg3.jpg)
 <h1 align="center">Hi 👋, I'm Raghavendra Jingade</h1>
 <h3 align="center">A passionate Full-Stack Web Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif">
