@@ -1,4 +1,4 @@
-![MasterHead](http://unblast.com/wp-content/uploads/2022/08/Programmer-Illustration.jpg)
+![MasterHead](https://github.com/JRaghu842/offbeat-jeans-3946/blob/main/images/working-remotely-1.png)
 <h1 align="center">Hi 👋, I'm Raghavendra Jingade</h1>
 <h3 align="center">A passionate Full-Stack Web Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif">
@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **I want to sit on the top of Mount Everest and code! lol**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left", style="margin: 100px;" >Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/jraghu842" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="jraghu842" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/raghavendra-jingade-4b0505194" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raghavendra-jingade-4b0505194" height="30" width="40" /></a>
