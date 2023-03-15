@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **I want to sit on the top of Mount Everest and code! lol**
 
-<h3 align="left", style="margin: 100px;" >Connect with me:</h3>
+<h3 align="left" >Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/jraghu842" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="jraghu842" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/raghavendra-jingade-4b0505194" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raghavendra-jingade-4b0505194" height="30" width="40" /></a>
