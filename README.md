@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/JRaghu842/offbeat-jeans-3946/blob/main/images/working-remotely-1.png)
 <h1 align="center">Hi 👋, I'm Raghavendra Jingade</h1>
-<h3 align="center">I am a passionate Full-Stack Web Developer, I enjoy diving into new tech stacks and turning complex code into simple yet effective user experiences. Let's build something great together! </h3>
+<h3 align="center">I am a passionate Full-Stack Web Developer 😎, I enjoy diving into new tech stacks and turning complex code 🛠 into simple yet effective user experiences🆒. Let's build something great together!</h3>
 <img align="right" alt="Coding" width="400" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif">
 
 
