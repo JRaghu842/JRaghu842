@@ -3,15 +3,17 @@
 <h3 align="center">I am a passionate Full-Stack Web Developer 😎, I enjoy diving into new tech stacks and turning complex code 🛠 into simple yet effective user experiences🆒. Let's build something great together!</h3>
 <img align="right" alt="Coding" width="400" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jraghu842&label=Profile%20views&color=0e75b6&style=flat" alt="jraghu842" /> </p>
 
-<p align="left"> <a href="https://twitter.com/jraghavendra842" target="blank"><img src="https://img.shields.io/twitter/follow/jraghavendra842?logo=twitter&style=for-the-badge" alt="jraghavendra842" /></a> </p>
+
+
 
 - 🔭 I’m currently working on **Something New**
 
 - 🌱 I’m currently learning **Advance Mongo**
 
 - 💬 Ask me about **NodeJS, Express, Mongo**
+
+- 👨‍💻 All of my projects are available at **Portfolio** & **GitHub**
 
 - 📫 How to reach me **jraghavendra842@gmail.com**
 
