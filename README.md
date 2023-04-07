@@ -17,8 +17,6 @@
 
 - 📫 How to reach me **jraghavendra842@gmail.com**
 
-- 📄 Check out my resume [https://drive.google.com/file/d/1w1upDrYTksw0jTeSn3IKxFY3oPEqLIjn/view?usp=sharing](https://drive.google.com/file/d/1w1upDrYTksw0jTeSn3IKxFY3oPEqLIjn/view?usp=sharing)
-
 - ⚡ Fun fact **I want to sit on the top of Mount Everest and code! lol**
 
 <h3 align="left">Connect with me:</h3>
