@@ -7,9 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🔭 I'm currently working on **Something New**
 
-- 💬 Ask me about **NodeJS,Express,Mongo**
+- 🌱 I’m currently learning **Advance MongoDB**
+
+- 💬 Ask me about **NodeJS,Express,Mongo,**
+
+- 👨‍💻 All of my projects are available at **Portfolio** & **GitHub**
 
 - 📫 How to reach me **jraghavendra842@gmail.com**
 
