@@ -13,11 +13,11 @@
 
 - 💬 Ask me about **NodeJS, Express, Mongo**
 
-- 👨‍💻 All of my projects are available at **Portfolio** & **GitHub**
+- 👨‍💻 All of my projects are available at **<a href="https://JRaghu842.github.io">Protfolio</a>** & **<a href="JRaghu842">GitHub</a>**
 
 - 📫 How to reach me **jraghavendra842@gmail.com**
 
-- ⚡ Fun fact **I want to sit on the top of Mount Everest and code! lol**
+- 📑  **I want to sit on the top of Mount Everest and code! lol**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
