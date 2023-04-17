@@ -11,10 +11,11 @@
 
 - 💬 Ask me about **NodeJS, Express, Mongo**
 
-- 👨‍💻 All of my projects are available at [https://JRaghu842.github.io/](https://JRaghu842.github.io/)
+- 👨‍💻 All of my projects are available at **<a href ="https://JRaghu842.github.io/">Portfolio</a>**
 
 - 📫 How to reach me **jraghavendra842@gmail.com**
 </div>
+
 <hr>
 
 <h3 align="left">Connect with me:</h3>
