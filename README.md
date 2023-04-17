@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **NodeJS, Express, Mongo**
 
-- 👨‍💻 All of my projects are available at https://JRaghu842.github.io
+- 👨‍💻 All of my projects are available at [https://JRaghu842.github.io/](https://JRaghu842.github.io/)
 
 - 📫 How to reach me **jraghavendra842@gmail.com**
 
