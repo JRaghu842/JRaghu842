@@ -108,9 +108,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jraghu842&theme=radical" />
   </a></p>
  
-<!--  <p><a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?    username=Jraghu842&theme=radical" />
-  </a></p>  -->
+  <p><a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JRaghu842&theme=radical" />
+  </a></p> 
  
 <!--    <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
     <p><a href="https://1999azzar.github.io/1999AZZAR/">
