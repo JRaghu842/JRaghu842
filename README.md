@@ -129,7 +129,7 @@
 <h3 align="center">Support:</h3>
 <!-- Footer -->
 <p>Have a desire for a beautiful, eye-catching portfolio or an extraordinary website?
- <br> SUPPORT MY WORK @BUYMEACOFFEE
+ <br> YOU CAN SUPPORT ME @BUYMEACOFFEE
  <br>I'll dedicate my expertise to crafting a website that exceeds your expectations.</p>
  <p><a href="https://www.buymeacoffee.com/"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/jraghavendj" /></a>
 </p>
