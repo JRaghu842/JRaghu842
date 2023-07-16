@@ -19,12 +19,12 @@
 
 - 👨‍💻 All of my projects are available at **<a href ="https://JRaghu842.github.io/">Portfolio</a>**
 
-- 📄 Know about my experiences **<a href ="https://drive.google.com/file/d/1LBrMkX5j7wlU6zjqHgvBqyGtuct4h43h/view?usp=sharing"> Resume</a>**
+- 📄 Know about my experiences **<a href ="https://drive.google.com/file/d/1yjCNibHCsvRRJlpC6MIR_ViLl1k693qC/view?usp=sharing"> Resume</a>**
  
 - 📫 How to reach me **jraghavendra842@gmail.com**
 </div>
 
-- ⚡ Fun fact is **< I have did 1200+ hrs of Coding / 550+ Commits / 5+ Projects / 100+ hrs of Soft Skill Classes />**
+- ⚡ Fun fact is **< I have did 1200+ hrs of Coding / 600+ Commits / 5+ Projects / 100+ hrs of Soft Skill Classes />**
 
 
 <!-- Trophies -->
