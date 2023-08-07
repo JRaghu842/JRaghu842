@@ -24,7 +24,7 @@
 - 📫 How to reach me **jraghavendra842@gmail.com**
 </div>
 
-- ⚡ Fun fact is **< I have did 1200+ hrs of Coding / 600+ Commits / 5+ Projects / 100+ hrs of Soft Skill Classes />**
+- ⚡ Fun fact is **< I have did 1200+ hrs of Coding / 620+ Commits / 5+ Projects / 100+ hrs of Soft Skill Classes />**
 
 
 <!-- Trophies -->
