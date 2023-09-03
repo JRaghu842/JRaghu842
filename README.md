@@ -1,7 +1,6 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
 
-
 <!-- Hello Message -->
 <h1 align="center">Hi 👋, I'm Raghavendra Jingade</h1>
 <h3 align="center">I am a passionate Full-Stack Web Developer/ NodeJS Backend developer 😎, I enjoy diving into new tech stacks and turning complex code 🛠 into simple yet effective user experiences🆒. Let's build something great together!</h3>
@@ -24,7 +23,7 @@
 - 📫 How to reach me **jraghavendra842@gmail.com**
 </div>
 
-- ⚡ Fun fact is **< I have did 1200+ hrs of Coding / 630+ Commits / 5+ Projects / 100+ hrs of Soft Skill Classes />**
+- ⚡ Fun fact is **<I have did 1200+ hrs of Coding / 650+ Commits / 5+ Projects / 100+ hrs of Soft Skill Classes/>**
 
 
 <!-- Trophies -->
