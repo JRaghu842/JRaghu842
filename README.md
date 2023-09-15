@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **Something New**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React Redux**
 
 - 💬 Ask me about **NodeJS, ExpressJS, MongoDB, Websockets, MySQL**
 
@@ -23,7 +23,7 @@
 - 📫 How to reach me **jraghavendra842@gmail.com**
 </div>
 
-- ⚡ Fun fact is **<I have did 1200+ hrs of Coding / 650+ Commits / 5+ Projects / 100+ hrs of Soft Skill Classes/>**
+- ⚡ Fun fact is **<I have did 1200+ hrs of Coding / 680+ Commits / 5+ Projects / 100+ hrs of Soft Skill Classes/>**
 
 
 <!-- Trophies -->
