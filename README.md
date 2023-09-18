@@ -12,9 +12,9 @@
 
 - 🔭 I’m currently working on **Something New**
 
-- 🌱 I’m currently learning **React Redux**
+- 🌱 I’m currently learning **React, Redux**
 
-- 💬 Ask me about **NodeJS, ExpressJS, MongoDB, Websockets, MySQL**
+- 💬 Ask me about **Javascript, NodeJS, MongoDB, Websockets, MySQL**
 
 - 👨‍💻 All of my projects are available at **<a href ="https://JRaghu842.github.io/">Portfolio</a>**
 
