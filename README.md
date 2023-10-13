@@ -23,7 +23,7 @@
 - 📫 How to reach me **jraghavendra842@gmail.com**
 </div>
 
-- ⚡ Fun fact is **<I have did 1200+ hrs of Coding / 730+ Commits / 5+ Projects / 100+ hrs of Soft Skill Classes/>**
+- ⚡ Fun fact is **<I have did 1200+ hrs of Coding / 750+ Commits / 5+ Projects / 100+ hrs of Soft Skill Classes/>**
 
 
 <!-- Trophies -->
@@ -119,7 +119,7 @@
 
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
 
-### ✍️ Daily Random Dev Quote
+### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
