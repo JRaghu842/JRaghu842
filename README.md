@@ -3,7 +3,7 @@
 
 <!-- Hello Message -->
 <h1 align="center">Hi 👋, I'm Raghavendra Jingade</h1>
-<h3 align="center">I am a passionate Full-Stack Web Developer/ NodeJS Backend developer 😎, I enjoy diving into new tech stacks and turning complex code 🛠 into simple yet effective user experiences🆒. Let's build something great together!</h3>
+<h3 align="center">I am a passionate Full-Stack Web Developer😎, I enjoy diving into new tech stacks and turning complex code 🛠 into simple yet effective user experiences🆒. Let's build something great together!</h3>
 
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
 
